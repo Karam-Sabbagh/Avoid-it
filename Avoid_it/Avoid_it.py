@@ -6,6 +6,10 @@ pygame.init()
 
 screen = pygame.display.set_mode((1280, 964))
 pygame.display.set_caption('Avoid it')
+# pygame window icon
+icon = pygame.image.load('Images_png/Plane.png')
+pygame.display.set_icon(icon)
+
 background_colour = (0, 120, 255)
 screen.fill(background_colour)
 
