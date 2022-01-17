@@ -8,3 +8,5 @@ and you can let misseles colflict with each other and make them explode or you c
 
 And the missiles becomes faster over time
 and more missiles will spawn as long as you go over time too.
+
+you get score by lasting more and letting the misseles explode with each other.
