@@ -1,7 +1,7 @@
 # Avoid-it
 Avoid-it is a 2d game made with python using pygame.
 
-In this game you have a plane 
+In this game your character is a plane
 where you should dodge and avoid the missiles using arrows on your keyboard.
 
 The missiles becomes faster
