@@ -7,6 +7,6 @@ And you have to dodge and avoid the missiles.
 And also you can let misseles colflict with each other and make them explode or you can just avoid them till their fuel is out so they just fall and die
 
 And the missiles becomes faster over time
-And more missiles will spawn as long as you go over time too.
+And more missiles will spawn as long as you go over time too so the game will not stay at the same difficulty.
 
 You get score by lasting more and letting the misseles explode with each other.
